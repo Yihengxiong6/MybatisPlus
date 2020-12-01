@@ -5,7 +5,6 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-@MapperScan("com.onlineplatform.rnpdemo1010.mapper")
 public class Rnpdemo1010Application {
 
     public static void main(String[] args) {
